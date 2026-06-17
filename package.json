@@ -1,0 +1,12 @@
+{
+  "name": "twilio-sms-webhook",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2",
+    "twilio": "^5.3.0"
+  }
+}
